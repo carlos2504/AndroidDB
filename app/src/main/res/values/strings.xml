@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BasedeDatosClientes</string>
+    <string name="id">ID</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Teléfono</string>
+    <string name="direccion">Direccion</string>
+    <string name="correo">Correo</string>
+    <string name="noEncontrado">No se encontró al cliente</string>
+    <string name="Eliminado">Cliente eliminado</string>
+    <string name="agregar">Agregar</string>
+    <string name="buscar">Buscar nombre</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="noAdded">No se añadió el cliente</string>
+    <string name="Added">Cliente agregado</string>
+</resources>
